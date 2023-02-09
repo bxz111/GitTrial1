@@ -2,7 +2,7 @@ public class Main {
 
     int gitWorkshop (int x, int y) {
         for(int i = 0; i < 15; i++) {
-            System.out.println(x + y);
+            System.out.println(x - y);
         }
         return 0;
     }
