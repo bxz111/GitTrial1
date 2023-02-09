@@ -13,8 +13,10 @@ public class Main {
     }
 
     float multiply (int x, int y) {
+        System.out.println("did multiply");
         return x * y;
     }
+
 
     public static void main (String [] args) {
         System.out.println("Hello World");
