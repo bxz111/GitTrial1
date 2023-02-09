@@ -8,6 +8,7 @@ public class Main {
     }
 
     boolean somethingCool (float y) {
+        System.out.println("Checking function");
         return y == y;
     }
 
